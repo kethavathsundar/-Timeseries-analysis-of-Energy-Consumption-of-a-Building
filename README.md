@@ -1,5 +1,5 @@
 Minor_Project-1_Grp-68
-
+download(1).jpg
 
 ENERGY PREDICTION IN SMART BUILDING
 This study details the public release of power usage and interior environmental measurement data from a seven-story, 11,700-square-meter office building in Bangkok, Thailand.
